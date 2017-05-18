@@ -1,0 +1,1 @@
+# rxvt-and-term-config
