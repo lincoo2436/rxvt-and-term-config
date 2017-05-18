@@ -1,1 +1,1 @@
-# rxvt-and-term-config
+# rxvt-and-Xterm-config
